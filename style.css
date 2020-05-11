@@ -1,0 +1,35 @@
+body{
+	margin:0;
+	padding:0;
+}
+#wave
+{
+	position:absolute;
+	z-index: -1;
+}
+.content
+{
+	margin-top:50px;
+}
+.welcome-text
+{
+	color:#fff;
+	font-size:40px;
+}
+#form-container
+{
+	margin-top:150px;
+}
+.side-heading
+{
+	color:#FF6600;
+	font-size:20px;
+}
+.horizointal-line
+{
+	border:0.5px solid #0099ff;
+}
+.submit-btn
+{
+	width:200px;
+}
